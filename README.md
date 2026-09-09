@@ -1,11 +1,11 @@
 # motor_credito_nucleo_financiero_Helm
 
-## Información del Proyecto Académico - CUN
+## ACA #3
 * **Asignatura:** Calidad de Software
 * **Código de Asignatura:** / 53325 / SEGUNDO BLOQUE / 26P03
-* **Actividad:** Entregable Final - ACA3
+* **Actividad:** Entregable Final - ACA3 - INFORME TÉCNICO DE VALIDACIÓN Y ASEGURAMIENTO DE CALIDAD DE SOFTWARE
 * **Institución:** Corporación Unificada Nacional de Educación Superior (CUN)
-* **Fecha de Entrega:** 13 de septiembre de 2026
+* **Fecha de Entrega:** septiembre de 2026
 
 ## Estudiante / Desarrollador (Individual)
 * **Nombre:** Helman Rueda
@@ -14,7 +14,7 @@
 ---
 
 ## Descripción del Sistema
-Este repositorio contiene el código fuente y las pruebas unitarias automatizadas desarrolladas para el módulo de evaluación de riesgo crediticio de la plataforma **XYZ FinTech / AssureAI** (Core Credit Engine v2.1). El sistema implementa una arquitectura híbrida combinando Programación Orientada a Objetos (POO) para el cálculo de cupos financieros y Programación Orientada a Eventos (EDP) para la mensajería asíncrona de pagos.
+Este repositorio contiene el código fuente y las pruebas unitarias automatizadas desarrolladas para el módulo de evaluación de riesgo crediticio de la plataforma (Core Credit Engine v2.1). El sistema implementa una arquitectura híbrida combinando Programación Orientada a Objetos (POO) para el cálculo de cupos financieros y Programación Orientada a Eventos (EDP) para la mensajería asíncrona de pagos.
 
 ## Pruebas Unitarias Automatizadas (JUnit 5)
 1. `CP-UNI-001`: Validación de aprobación de crédito para solicitantes de bajo riesgo.
