@@ -27,4 +27,4 @@ Este repositorio contiene el código fuente y las pruebas unitarias automatizada
 * **Complejidad Ciclomática Promedio:** 6.0
 
 ## Enlace al Video Pitch (YouTube)
-* **URL del Video Pitch:** `https://www.youtube.com/watch?v=[Tu_Enlace_De_YouTube]`
+* **URL del Video Pitch:** `https://youtu.be/ntFX9zc83NY`
